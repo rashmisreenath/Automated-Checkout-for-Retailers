@@ -16,6 +16,8 @@ c)  Bill generation
 Dataset :- 
 Custom dataset is to be generated, Method used - Web Scraping
 Sample dataset Outlook:-
+<img width="558" alt="uo1" src="https://user-images.githubusercontent.com/65388338/196435731-569ebb93-e52c-486d-8eca-f8a403cde971.PNG">
+
 
 ## Methodology
 
