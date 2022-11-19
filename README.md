@@ -41,6 +41,9 @@ Initally YOLO was implemented but as the dataset used was custom dataset, based 
 This Project was done as a base model/webapp for creating an automated checkout, this could be further improvised based on the requirements of the retail stores, additional items can be added based on the requirement.
 (Accuracy increases with the increase in training set)
 
+## Demo Video
+https://user-images.githubusercontent.com/65388338/202844636-95207966-6c3e-4f72-8f79-b60f964bca42.mp4
+
 
 ## References
 
