@@ -32,14 +32,10 @@ d) Streamlit for the purposes of UI
 ## How to run these codes
 
 cd C:\Desktop\streamlit
+
 streamlitenv\Scripts\activate
+
 streamlit run demo.py
-
-
-## NOTE 
-Initally YOLO was implemented but as the dataset used was custom dataset, based on the research Efficient nets was found to be the best approch.
-This Project was done as a base model/webapp for creating an automated checkout, this could be further improvised based on the requirements of the retail stores, additional items can be added based on the requirement.
-(Accuracy increases with the increase in training set)
 
 ## Demo Video
 https://user-images.githubusercontent.com/65388338/202844636-95207966-6c3e-4f72-8f79-b60f964bca42.mp4
@@ -48,3 +44,8 @@ https://user-images.githubusercontent.com/65388338/202844636-95207966-6c3e-4f72-
 ## References
 
 https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html#:~:text=EfficientNet%20Performance&text=In%20general%2C%20the%20EfficientNet%20models,by%20an%20order%20of%20magnitude.
+
+## NOTE 
+Initally YOLO was implemented but as the dataset used was custom dataset, based on the research Efficient nets was found to be the best approch.
+This Project was done as a base model/webapp for creating an automated checkout, this could be further improvised based on the requirements of the retail stores, additional items can be added based on the requirement.
+(Accuracy increases with the increase in training set)
